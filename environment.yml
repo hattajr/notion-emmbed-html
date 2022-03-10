@@ -1,0 +1,50 @@
+name: viz-for-gh
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - _openmp_mutex=4.5=1_gnu
+  - altair=4.2.0=pyhd8ed1ab_1
+  - attrs=21.4.0=pyhd8ed1ab_0
+  - ca-certificates=2021.10.8=ha878542_0
+  - certifi=2021.10.8=py38h578d9bd_1
+  - entrypoints=0.4=pyhd8ed1ab_0
+  - importlib-metadata=4.11.2=py38h578d9bd_0
+  - importlib_resources=5.4.0=pyhd8ed1ab_0
+  - jinja2=3.0.3=pyhd8ed1ab_0
+  - jsonschema=4.4.0=pyhd8ed1ab_0
+  - ld_impl_linux-64=2.35.1=h7274673_9
+  - libblas=3.9.0=11_linux64_openblas
+  - libcblas=3.9.0=11_linux64_openblas
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.3.0=h5101ec6_17
+  - libgfortran-ng=11.2.0=h69a702a_13
+  - libgfortran5=11.2.0=h5c6108e_13
+  - libgomp=9.3.0=h5101ec6_17
+  - liblapack=3.9.0=11_linux64_openblas
+  - libopenblas=0.3.17=pthreads_h8fe5266_1
+  - libstdcxx-ng=9.3.0=hd4cf53a_17
+  - markupsafe=2.0.1=py38h497a2fe_0
+  - ncurses=6.3=h7f8727e_2
+  - numpy=1.20.3=py38h9894fe3_1
+  - openssl=1.1.1m=h7f8727e_0
+  - pandas=1.2.3=py38h51da96c_0
+  - pip=21.2.4=py38h06a4308_0
+  - pyrsistent=0.18.0=py38heee7806_0
+  - python=3.8.12=h12debd9_0
+  - python-dateutil=2.8.2=pyhd8ed1ab_0
+  - python_abi=3.8=2_cp38
+  - pytz=2021.3=pyhd8ed1ab_0
+  - readline=8.1.2=h7f8727e_1
+  - setuptools=58.0.4=py38h06a4308_0
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.37.2=hc218d9a_0
+  - tk=8.6.11=h1ccaba5_0
+  - toolz=0.11.2=pyhd8ed1ab_0
+  - vega_datasets=0.9.0=pyhd3deb0d_0
+  - wheel=0.37.1=pyhd3eb1b0_0
+  - xz=5.2.5=h7b6447c_0
+  - zipp=3.7.0=pyhd8ed1ab_1
+  - zlib=1.2.11=h7f8727e_4
+prefix: /home/hattajr/miniconda3/envs/viz-for-gh
